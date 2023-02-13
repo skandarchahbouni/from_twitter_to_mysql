@@ -5,6 +5,6 @@ import mysql.connector
 db = mysql.connector.connect(
     host="localhost", #can be found in mysqlworkbench, it's localhost by default
     user="root", # can be found in mysqlworkbench, it's root by default
-    password="...", # your password here
-    port="3306" # can be found in mysqlworkbench, it's 3306 by default
+    password="/**skandar1234**/", # your password here
+    port="..." # can be found in mysqlworkbench, it's 3306 by default
 )
