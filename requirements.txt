@@ -1,0 +1,2 @@
+snscrape==0.3.0
+mysql-connector-python==8.1.0
